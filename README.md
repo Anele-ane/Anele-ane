@@ -9,8 +9,5 @@ Anele-ane/Anele-ane is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 Hola soy Anele
-Me interesa aprender y actualizarme en el mundo de programacion de app moviles
-Actualemte estoy arendiendo programacion en android desde cero
-Esctoy buscando colaboradores ayuda con mi app q hago en android studio
-Quiero aprender a prograar reconocimiento de voz sin internet, tambien aplicar logica difusa para lectura y comprension
-Mi wasap es +59173555213 
+Hola soy Anele Me interesa aprender y actualizarme en el mundo de programación de app móviles Actualmente estoy aprendiendo programación en Android desde cero Estoy buscando colaboradores ayuda con mi app q hago en Android studio Quiero aprender a programar reconocimiento de voz sin internet, también aplicar lógica difusa para lectura y comprensión Mi wasap es +59173555213
+
